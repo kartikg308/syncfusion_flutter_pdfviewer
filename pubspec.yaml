@@ -35,21 +35,21 @@ dependencies:
   http: 
   uuid: ^3.0.5
   device_info_plus: 
-  intl: 
+  intl: 0.19.0
 
-  syncfusion_pdfviewer_platform_interface: ^23.1.36
+  syncfusion_pdfviewer_platform_interface: 
 
-  syncfusion_pdfviewer_web: ^23.1.36
+  syncfusion_pdfviewer_web: 
 
-  syncfusion_pdfviewer_macos: ^23.1.36
+  syncfusion_pdfviewer_macos: 
 
-  syncfusion_pdfviewer_windows: ^23.1.36
+  syncfusion_pdfviewer_windows: 
 
-  syncfusion_flutter_core: ^23.1.36
+  syncfusion_flutter_core: 
 
-  syncfusion_flutter_pdf: ^23.1.36
+  syncfusion_flutter_pdf: 
 
-  syncfusion_flutter_signaturepad: ^23.1.36
+  syncfusion_flutter_signaturepad: 
 
 
   url_launcher: ^6.1.0
